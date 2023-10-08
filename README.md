@@ -1,8 +1,9 @@
+# BACKGROUND
 ### 
-Hi there! I'm Vaibhav Magdum, a Data Science Intern at CODSOFT. I'm passionate about Data Science and I love using technology to solve real-world problems.
-
+I'm Vaibhav Magdum, a Data Science Intern at CODSOFT. I am a Second year Data Science Student @ KITCOEK. I've worked on mnay projects as a team leader as well as a prominent member. I'm passionate about Data Science and I love using technology to solve real-world problems. I have been working on several data science related projects at CODSOFT as an intern and I am also learning various visualization techniques.
 In my spare time, I work on open source projects and contribute to the tech community. I'm also a big fan of Chess and Football.
 
+# SKILLS
 Here are some of my skills and interests:
 
 Python,C  
@@ -23,8 +24,6 @@ Communication
 
 Technical writing 
 
-Public speaking 
-
 I'm always looking for new ways to learn and grow, and I'm excited to connect with other people who are passionate about technology. 
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 
@@ -35,9 +34,8 @@ Feel free to reach out to me if you have any questions or if you're interested i
 - 💬 Ask me about Tableau, Python, Machine Learning
 - 📫 How to reach me: https://www.linkedin.com/in/vaibhavmagdum1528/
 - 😄 Pronouns: he/him
-
-  ###                          CONTACT ME :
-  linkedin: https://www.linkedin.com/in/vaibhavmagdum1528/
+ # CONTACT ME 
+linkedin: https://www.linkedin.com/in/vaibhavmagdum1528/
 
 
 
