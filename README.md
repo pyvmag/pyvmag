@@ -1,45 +1,29 @@
-# BACKGROUND
-### 
-I'm Vaibhav Magdum, a Data Science Intern at CODSOFT. I am a Second year Data Science Student @ KITCOEK. I've worked on mnay projects as a team leader as well as a prominent member. I'm passionate about Data Science and I love using technology to solve real-world problems. I have been working on several data science related projects at CODSOFT as an intern and I am also learning various visualization techniques.
-In my spare time, I work on open source projects and contribute to the tech community. I'm also a big fan of Chess and Football.
 
-# SKILLS
-Here are some of my skills and interests:
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">A passionate Data Enthusiast from India</h3>
 
-Python,C  
+- 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/pyvmag/codsoft/blob/credit-card/Credit_Card_Fraud_Detection.ipynb)
 
-Tableau, PowerBI, Excel 
+- 🌱 I’m currently learning **PowerBI, Machine Learning, MySQL**
 
-HTML, CSS 
+- 🤝 I’m looking for help with **SALES PREDICTION USING PYTHON**
 
-Cloud computing platforms 
+- 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
-Machine learning 
+- 💬 Ask me about **Tableau, Python**
 
-Data visualization(matplotlib,seaborn) 
+- 📫 How to reach me **vaibhavmagdum1528@gmail.com**
 
-Software engineering principles 
+- 📄 Know about my experiences [https://www.canva.com/design/DAFtOFxu88k/XoY7wvQO0GUXewrsQRC0ug/view?utm_content=DAFtOFxu88k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAFtOFxu88k/XoY7wvQO0GUXewrsQRC0ug/view?utm_content=DAFtOFxu88k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
-Communication 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vaibhav magdum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav magdum" height="30" width="40" /></a>
+</p>
 
-Technical writing 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-I'm always looking for new ways to learn and grow, and I'm excited to connect with other people who are passionate about technology. 
-
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 
-- 🔭 I’m currently working at CODSOFT as an intern
-- 🌱 I’m currently learning Tableua
-- 👯 I’m looking to collaborate on Data Science
-- 🤔 I’m looking for help with Machinme learning
-- 💬 Ask me about Tableau, Python, Machine Learning
-- 📫 How to reach me: https://www.linkedin.com/in/vaibhavmagdum1528/
-- 😄 Pronouns: he/him
- # CONTACT ME 
-linkedin: https://www.linkedin.com/in/vaibhavmagdum1528/
-
-
-
-  mob : 8780054299
 
 <!--
 **pyvmag/pyvmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
