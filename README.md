@@ -5,16 +5,26 @@ In my spare time, I work on open source projects and contribute to the tech comm
 
 Here are some of my skills and interests:
 
-Python,C 
+Python,C  
+
 Tableau, PowerBI, Excel 
+
 HTML, CSS 
+
 Cloud computing platforms 
+
 Machine learning 
+
 Data visualization(matplotlib,seaborn) 
+
 Software engineering principles 
+
 Communication 
+
 Technical writing 
+
 Public speaking 
+
 I'm always looking for new ways to learn and grow, and I'm excited to connect with other people who are passionate about technology. 
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 
@@ -26,6 +36,12 @@ Feel free to reach out to me if you have any questions or if you're interested i
 - 📫 How to reach me: https://www.linkedin.com/in/vaibhavmagdum1528/
 - 😄 Pronouns: he/him
 
+  ###                          CONTACT ME :
+  linkedin: https://www.linkedin.com/in/vaibhavmagdum1528/
+
+
+
+  mob : 8780054299
 
 <!--
 **pyvmag/pyvmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
