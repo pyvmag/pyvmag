@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/pyvmag/codsoft/blob/credit-card/Credit_Card_Fraud_Detection.ipynb)
+- 🔭 I’m currently working on my Data Analysis skills
 
 - 🌱 I’m currently learning **PowerBI, Machine Learning, MySQL**
 
