@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PowerBI, Machine Learning, MySQL**
 
-- 🤝 I’m looking for help with **SALES PREDICTION USING PYTHON**
+- 🤝 I’m looking for help with **MYSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
