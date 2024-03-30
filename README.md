@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my Data Analysis skills
 
-- 🌱 I’m currently learning **PowerBI, Machine Learning, MySQL**
+- 🌱 I’m currently learning **cloud computing, aws env, networking**
 
-- 🤝 I’m looking for help with **MYSQL**
+- 🤝 I’m looking for help with **cloud computing and netowrking essentials**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
