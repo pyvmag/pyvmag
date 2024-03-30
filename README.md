@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on my Data Analysis skills
+- 🔭 I’m currently working on cloud computing, security, networking.... 
 
 - 🌱 I’m currently learning **cloud computing, aws env, networking**
 
