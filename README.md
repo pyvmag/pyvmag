@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
-- 💬 Ask me about **Tableau, Python**
+- 💬 Ask me about **Python , SQL, Tableau, Networking**
 
 - 📫 How to reach me **vaibhavmagdum1528@gmail.com**
 
