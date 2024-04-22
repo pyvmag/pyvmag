@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on cloud computing, security, networking.... 
 
-- 🌱 I’m currently learning **cloud computing, aws env, networking**
+- 🌱 I’m currently learning **Postgres, MySQL, cloud computing, aws env, networking**
 
 - 🤝 I’m looking for help with **cloud computing and netowrking essentials**
 
