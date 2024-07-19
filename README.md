@@ -8,6 +8,8 @@
 
 - 🤝 I’m looking for help with **cloud computing and DevOps**
 
+-    Check my Blog at https://hashnode.com/@pyvmag
+
 - 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
 - 💬 Ask me about **Python , SQL, Tableau, Networking**
