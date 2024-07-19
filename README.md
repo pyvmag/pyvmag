@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **vaibhavmagdum1528@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFtOFxu88k/XoY7wvQO0GUXewrsQRC0ug/view?utm_content=DAFtOFxu88k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAFtOFxu88k/XoY7wvQO0GUXewrsQRC0ug/view?utm_content=DAFtOFxu88k&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav magdum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav magdum" height="30" width="40" /></a>
