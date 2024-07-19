@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on cloud computing, security, networking.... 
+- 🔭 I’m currently working on cloud computing, DevOps, DataBase.... 
 
 - 🌱 I’m currently learning **Postgres, MySQL, cloud computing, aws env, networking**
 
-- 🤝 I’m looking for help with **cloud computing and netowrking essentials**
+- 🤝 I’m looking for help with **cloud computing and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag/pyvmag/blob/main/README.md)
 
