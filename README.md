@@ -10,7 +10,7 @@
 
 -    Check my Blog at https://hashnode.com/@pyvmag
 
-- 👨‍💻 All of my projects are available at [https://github.com/pyvmag/pyvmag/blob/main/README.md](https://github.com/pyvmag)
+- 👨‍💻 All of my projects are available at [https://github.com/pyvmag](https://github.com/pyvmag)
 
 - 💬 Ask me about **Python , SQL, Tableau, Networking**
 
