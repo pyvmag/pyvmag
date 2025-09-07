@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on cloud computing, DevOps, DataBase.... 
+- 🔭 I’m currently working on Java, SpringBoot
 
-- 🌱 I’m currently learning **Postgres, MySQL, cloud computing, aws env, networking**
-
-- 🤝 I’m looking for help with **cloud computing and DevOps**
+- 🌱 I’m currently learning ** Frappe ,Postgres, MySQL, cloud computing, aws env, networking**
 
 -    Check my Blog at https://hashnode.com/@pyvmag
 
