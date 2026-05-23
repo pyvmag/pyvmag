@@ -1,41 +1,72 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Magdum</h1>
-<h3 align="center">Full-Stack Developer | Web Architecture, DevOps & AI</h3>
+# Hi 👋, I'm Vaibhav
+
+<div align="center">
+<img height="300" width="700" alt="Coding GIF" align="center" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+# About ME 💬 :
+
+### - I'm a Full-Stack Developer & Data Science Undergrad from India.
+
+<img height="300" width="400" alt="Tech GIF" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+### - Currently Building & Learning :
+- ✨ Enterprise Headless Architectures (Next.js & Python)
+- ✨ Zero-Downtime CI/CD Pipelines (Docker & Jenkins)
+- ✨ Integrating GenAI & LLMs into Web Apps
+
+### - Hobbies : 
+- ✨ Long-Distance Running (Half-Marathons)
+- ✨ Listening to Nu-Metal & Pop
+- ✨ Creative Writing & Documentation
+
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
 <p align="center">
-  <i>Architect. Develop. Deploy.</i>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
+  </br></br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="actions">
 </p>
 
-- 🔭 Currently a Software Developer Intern @ **Quantbit Technology** building enterprise-scale ERP systems.
+</br>
+</br>
+</br>
 
-- ⚙️ **Core Stack:** Next.js (App Router), React, TypeScript, Python, and Node.js.
+# Contact Me :
 
-- 🐳 **DevOps & Cloud:** Automating zero-downtime CI/CD pipelines using Docker, Jenkins, and GitHub Actions.
+<p>
+ </br>
 
-- 🌱 Currently exploring advanced Cloud Computing (AWS), container orchestration, and GenAI integrations.
+If you want to talk about Next.js architectures, DevOps pipelines, or just want to connect, feel free to ping me 😉.
 
-- 📝 I write technical notes and architecture breakdowns on [Hashnode](https://hashnode.com/@pyvmag) & Substack.
+<a href="mailto:vaibhavmagdum1528@gmail.com">
+ <img align="left" alt="Gmail" width="130" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vaibhavmagdum1528/">
+  <img align="left" alt="Linkedin" width="130" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</br>
+</br>
+</br>
+</a>
 
-- 💬 Ask me about **Next.js architectures, Docker deployments, or Python backends**.
-
-- 📫 How to reach me: **vaibhavmagdum1528@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhavmagdum1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav magdum" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p align="center">  
+  <a href="https://github.com/pyvmag"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=pyvmag&show_icons=true&theme=radical&hide_border=true"/>
+  </a>
 </p>
