@@ -22,7 +22,7 @@
   </h5>
  
 <br />
-<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" />
+<img align="right" height="270px" width="400px" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" />
 
 <p align="left">
   <h3> I'm a Full-Stack developer & Data Science undergrad from India.</h3>
