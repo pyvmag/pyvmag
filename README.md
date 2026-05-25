@@ -78,10 +78,6 @@
    
 <br />
 
-<h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center">I am always open to discussing system architecture, backend logic, or containerization strategies!</p>
 
-<p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
