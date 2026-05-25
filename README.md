@@ -4,6 +4,7 @@
 </div>
 
 <p align='center'>
+   <a href="https://vaibhavmagdum.vercel.app"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/vaibhavmagdum1528/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://hashnode.com/@pyvmag"><img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>&nbsp;&nbsp;
    <a href="mailto:vaibhavmagdum1528@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
@@ -74,7 +75,3 @@
    </p>
    
 <br />
-
-
-
-
